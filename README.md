@@ -1,6 +1,6 @@
 # MOBIOTICS WORK DOCUMENTATION
 
-## About the Mobiotics:
+## About Mobiotics:
 
 * OTT platform based company
 * Provides services with their products
